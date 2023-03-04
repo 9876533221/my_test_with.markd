@@ -1,6 +1,6 @@
 # my_test_with.markd
 | Syntax | Description |
-| --noor--------- | --22--------- |
+| --noor----- | --22---- |
 | Header | Title |
 | Paragraph | Text |
 it governance 
